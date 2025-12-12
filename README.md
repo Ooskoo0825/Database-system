@@ -1,3 +1,4 @@
+<img width="706" height="677" alt="Screenshot 2025-12-12 at 14 55 27" src="https://github.com/user-attachments/assets/919f82b5-b425-4307-88a1-14c12c8ef993" />
 # Database-system
 Task Management System - Төслийн Гарын Авлага
 1. Технологийн Стек
